@@ -3,7 +3,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Sergey98Am/The-Wild-Oasis.git
+git clone https://github.com/Sergey98Am/React-Fast-Pizza.git
 ```
 
 ### Install packages
@@ -11,19 +11,6 @@ git clone https://github.com/Sergey98Am/The-Wild-Oasis.git
 ```shell
 npm i
 ```
-
-### Setup .env.local file and write your Supabase URL an KEY
-
-```js
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-```
-
-### Add SQL Tables
-
-Add `database.sql` file, in Supabase SQL editor
-
-### Add User in Supabase
 
 ### Start the app
 
